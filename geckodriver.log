@@ -1,0 +1,1420 @@
+1652686126297	geckodriver	INFO	Listening on 127.0.0.1:1650
+1652686129149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileJ30XGz"
+1652686129596	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileJ30XGz\\search.json.mozlz4", (void 0)))
+1652686131336	Marionette	INFO	Listening on port 1662
+1652686131838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652686217712	Marionette	INFO	Stopped listening on port 1662
+2686217010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileU9Prun"
+1652686217290	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileU9Prun\\search.json.mozlz4", (void 0)))
+1652686218839	Marionette	INFO	Listening on port 4015
+1652686219064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652686324114	Marionette	INFO	Stopped listening on port 4015
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652686328613	geckodriver	INFO	Listening on 127.0.0.1:4277
+1652686331688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilenhUxGj"
+1652686332061	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilenhUxGj\\search.json.mozlz4", (void 0)))
+1652686333487	Marionette	INFO	Listening on port 4293
+1652686333747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652686630403	Marionette	INFO	Stopped listening on port 4293
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652686637139	geckodriver	INFO	Listening on 127.0.0.1:9309
+1652686640188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileomRcZH"
+1652686640530	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileomRcZH\\search.json.mozlz4", (void 0)))
+1652686642110	Marionette	INFO	Listening on port 9323
+1652686642221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652686799894	geckodriver	INFO	Listening on 127.0.0.1:14438
+1652686802963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilevL5CDW"
+1652686803311	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilevL5CDW\\search.json.mozlz4", (void 0)))
+1652686804875	Marionette	INFO	Listening on port 14450
+1652686804999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652686985113	geckodriver	INFO	Listening on 127.0.0.1:14794
+1652686988169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileNOaYBu"
+1652686988515	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileNOaYBu\\search.json.mozlz4", (void 0)))
+1652686989950	Marionette	INFO	Listening on port 14805
+1652686990220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652687206131	Marionette	INFO	Stopped listening on port 14805
+687206028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileASBHbT"
+1652687206388	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileASBHbT\\search.json.mozlz4", (void 0)))
+1652687207838	Marionette	INFO	Listening on port 1230
+1652687208060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+1652687210148	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652687366268	Marionette	INFO	Stopped listening on port 1230
+2687239031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile5D7Vc0"
+1652687239311	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile5D7Vc0\\search.json.mozlz4", (void 0)))
+1652687240771	Marionette	INFO	Listening on port 1352
+1652687241078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm,1652687367297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofiledwBomP"
+1652687367696	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofiledwBomP\\search.json.mozlz4", (void 0)))
+1652687369269	Marionette	INFO	Listening on port 4674
+1652687369358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652687952193	Marionette	INFO	Stopped listening on port 4674
+2687820536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile05ofVq"
+1652687820841	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile05ofVq\\search.json.mozlz4", (void 0)))
+1652687822415	Marionette	INFO	Listening on port 5567
+1652687822599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652687953186	Marionette	INFO	Stopped listening on port 5567
+2687952242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile4wIsVA"
+1652687952589	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile4wIsVA\\search.json.mozlz4", (void 0)))
+1652687954202	Marionette	INFO	Listening on port 5915
+1652687954288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652688066455	Marionette	INFO	Stopped listening on port 5915
+2688063315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilep1fyoM"
+1652688063627	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilep1fyoM\\search.json.mozlz4", (void 0)))
+1652688065273	Marionette	INFO	Listening on port 7987
+1652688065340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652688365439	Marionette	INFO	Stopped listening on port 7987
+[GFX1-]: Failed to get descriptor for recorded texture.
+[Parent 3436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652688384871	geckodriver	INFO	Listening on 127.0.0.1:1939
+1652688387952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileCiSR3g"
+1652688388312	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileCiSR3g\\search.json.mozlz4", (void 0)))
+1652688389748	Marionette	INFO	Listening on port 1951
+1652688389994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: http://howmuch-grafana-dmz.paas.sc.ctc.com/public/build/app.d10a9a685fb17efa4c7b.js, line 1: TypeError: e.match is not a function
+JavaScript error: http://howmuch-grafana-dmz.paas.sc.ctc.com/public/build/app.d10a9a685fb17efa4c7b.js, line 1: TypeError: e.match is not a function
+1652688657862	Marionette	INFO	Stopped listening on port 1951
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilexMIx6y"
+1652688536115	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilexMIx6y\\search.json.mozlz4", (void 0)))
+1652688537592	Marionette	INFO	Listening on port 7684
+1652688537877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: http://howmuch-grafana-dmz.paas.sc.ctc.com/public/build/app.d10a9a685fb17efa4c7b.js, line 1: TypeError: e.match is not a function
+1652688659040	Marionette	INFO	Stopped listening on port 7684
+1652688666413	geckodriver	INFO	Listening on 127.0.0.1:3106
+1652688669485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile3DMPpM"
+1652688669831	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile3DMPpM\\search.json.mozlz4", (void 0)))
+1652688671330	Marionette	INFO	Listening on port 3119
+1652688671519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652688825378	Marionette	INFO	Stopped listening on port 3119
+[Parent 11040, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652689030868	geckodriver	INFO	Listening on 127.0.0.1:3869
+1652689033933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilePCSYHs"
+1652689034291	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilePCSYHs\\search.json.mozlz4", (void 0)))
+1652689035861	Marionette	INFO	Listening on port 3881
+1652689035974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652689361873	Marionette	INFO	Stopped listening on port 3881
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilenuprEX"
+1652689360253	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilenuprEX\\search.json.mozlz4", (void 0)))
+1652689361790	Marionette	INFO	Listening on port 4055
+1652689362015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652689417394	Marionette	INFO	Stopped listening on port 4055
+1652689442145	geckodriver	INFO	Listening on 127.0.0.1:4254
+1652689445219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile1IZlSC"
+1652689445559	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile1IZlSC\\search.json.mozlz4", (void 0)))
+1652689446977	Marionette	INFO	Listening on port 4269
+1652689447258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652692659155	geckodriver	INFO	Listening on 127.0.0.1:11713
+1652692662228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofiletmzllX"
+1652692662510	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofiletmzllX\\search.json.mozlz4", (void 0)))
+1652692663987	Marionette	INFO	Listening on port 11725
+1652692664267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wukong2.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+1652692802706	geckodriver	INFO	Listening on 127.0.0.1:5448
+1652692805778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilezZOj1k"
+1652692806051	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilezZOj1k\\search.json.mozlz4", (void 0)))
+1652692807593	Marionette	INFO	Listening on port 5461
+1652692807825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+1652692880136	Marionette	INFO	Stopped listening on port 5461
+1652692887394	geckodriver	INFO	Listening on 127.0.0.1:5662
+1652692890462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileKMDkhv"
+1652692890738	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileKMDkhv\\search.json.mozlz4", (void 0)))
+1652692892199	Marionette	INFO	Listening on port 5674
+1652692892499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wukong2.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652692971585	Marionette	INFO	Stopped listening on port 5674
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652693020686	geckodriver	INFO	Listening on 127.0.0.1:5940
+1652693023771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileNwo57k"
+1652693024117	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileNwo57k\\search.json.mozlz4", (void 0)))
+1652693025605	Marionette	INFO	Listening on port 5952
+1652693025829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652693026148	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652693056471	Marionette	INFO	Stopped listening on port 5951652693057587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileeyreYl"
+1652693057913	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileeyreYl\\search.json.mozlz4", (void 0)))
+1652693059412	Marionette	INFO	Listening on port 6074
+1652693059634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652693059947	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652693066991	Marionette	INFO	Stopped listening on port 6074
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652693083632	geckodriver	INFO	Listening on 127.0.0.1:6164
+1652693086716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilebXkxbk"
+1652693087052	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilebXkxbk\\search.json.mozlz4", (void 0)))
+1652693088485	Marionette	INFO	Listening on port 6177
+1652693088761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652693089087	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652693091897	Marionette	INFO	Stopped listening on port 6177
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652693130681	geckodriver	INFO	Listening on 127.0.0.1:6286
+1652693133773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileopL6o8"
+1652693134113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileopL6o8\\search.json.mozlz4", (void 0)))
+1652693135568	Marionette	INFO	Listening on port 6299
+1652693135822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652693169001	Marionette	INFO	Stopped listening on port 6299
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652693331599	geckodriver	INFO	Listening on 127.0.0.1:6671
+1652693334689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileOUN9Sx"
+1652693335031	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileOUN9Sx\\search.json.mozlz4", (void 0)))
+1652693336587	Marionette	INFO	Listening on port 6685
+1652693336744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652693373849	Marionette	INFO	Stopped listening on port 6685
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652693568363	geckodriver	INFO	Listening on 127.0.0.1:9709
+1652693571449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilekBsx0E"
+1652693571805	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilekBsx0E\\search.json.mozlz4", (void 0)))
+1652693573255	Marionette	INFO	Listening on port 9727
+1652693573486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+1652693596705	Marionette	INFO	Stopped listening on port 9727
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652693671472	geckodriver	INFO	Listening on 127.0.0.1:9055
+1652693674536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile4OJpD2"
+1652693674876	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile4OJpD2\\search.json.mozlz4", (void 0)))
+1652693676367	Marionette	INFO	Listening on port 9067
+1652693676584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652693720754	Marionette	INFO	Stopped listening on port 9067
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652693887046	geckodriver	INFO	Listening on 127.0.0.1:9499
+1652693890141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileyhpVeS"
+1652693890492	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileyhpVeS\\search.json.mozlz4", (void 0)))
+1652693891957	Marionette	INFO	Listening on port 9515
+1652693892185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652693969384	Marionette	INFO	Stopped listening on port 9515
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652695910307	geckodriver	INFO	Listening on 127.0.0.1:11390
+1652695913380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileTidpDA"
+1652695913734	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileTidpDA\\search.json.mozlz4", (void 0)))
+1652695915227	Marionette	INFO	Listening on port 11404
+1652695915438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652696245766	Marionette	INFO	Stopped listening on port 11404
+1652750638052	geckodriver	INFO	Listening on 127.0.0.1:14604
+1652750641107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilewArjWP"
+1652750641405	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilewArjWP\\search.json.mozlz4", (void 0)))
+1652750642790	Marionette	INFO	Listening on port 14617
+1652750643146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652751351552	Marionette	INFO	Stopped listening on port 1461652751352350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile6nIZEx"
+1652751352663	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile6nIZEx\\search.json.mozlz4", (void 0)))
+1652751354120	Marionette	INFO	Listening on port 1874
+1652751354398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652751493041	Marionette	INFO	Stopped listening on port 1874
+1652755831045	geckodriver	INFO	Listening on 127.0.0.1:5966
+1652755834116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilebay6MF"
+1652755834923	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilebay6MF\\search.json.mozlz4", (void 0)))
+1652755837923	Marionette	INFO	Listening on port 5980
+1652755838310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652756150688	Marionette	INFO	Stopped listening on port 5980
+[Parent 9256, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 9256, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652756175318	geckodriver	INFO	Listening on 127.0.0.1:6558
+1652756178399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilewgyJ7m"
+1652756179051	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilewgyJ7m\\search.json.mozlz4", (void 0)))
+1652756181878	Marionette	INFO	Listening on port 6571
+1652756182084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wukong2.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652756957119	Marionette	INFO	Stopped listening on port 6571
+[Parent 6352, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilee0Gqnw\\search.json.mozlz4", (void 0)))
+1652756857057	Marionette	INFO	Listening on port 7590
+1652756857105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wukong2.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652756958308	Marionette	INFO	Stopped listening on port 7590
+[Parent 828, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 828, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 828, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652756967337	geckodriver	INFO	Listening on 127.0.0.1:7854
+1652756970420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofiletaQQQZ"
+1652756971242	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofiletaQQQZ\\search.json.mozlz4", (void 0)))
+1652756974103	Marionette	INFO	Listening on port 7866
+1652756974624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wukong2.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+1652758797629	Marionette	INFO	Stopped listening on port 7866
+[Parent 15172, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15172, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15172, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile6v4uAK\\search.json.mozlz4", (void 0)))
+1652757412876	Marionette	INFO	Listening on port 8661
+1652757413136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wukong2.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652757568262	Marionette	INFO	Stopped listening on port 8661
+1652757694273	geckodriver	INFO	Listening on 127.0.0.1:9162
+1652757697337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileZKfdKb"
+1652757697983	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileZKfdKb\\search.json.mozlz4", (void 0)))
+1652757700953	Marionette	INFO	Listening on port 9174
+1652757701011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wukong2.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652758157343	Marionette	INFO	Stopped listening on port 9174
+1652758782936	geckodriver	INFO	Listening on 127.0.0.1:10902
+1652758786001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileFOy5Fc"
+1652758786659	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileFOy5Fc\\search.json.mozlz4", (void 0)))
+1652758789977	Marionette	INFO	Listening on port 10914
+1652758790190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+1652758793002	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652758891439	Marionette	INFO	Stopped listening on port 10914
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652770348344	geckodriver	INFO	Listening on 127.0.0.1:1093
+1652770351397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileKXjD8t"
+1652770351753	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileKXjD8t\\search.json.mozlz4", (void 0)))
+1652770353361	Marionette	INFO	Listening on port 1108
+1652770353451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652770428455	Marionette	INFO	Stopped listening on port 1108
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile9g4yPE"
+1652770403437	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile9g4yPE\\search.json.mozlz4", (void 0)))
+1652770404941	Marionette	INFO	Listening on port 1253
+1652770405223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652770429287	Marionette	INFO	Stopped listening on port 1253
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652770431705	geckodriver	INFO	Listening on 127.0.0.1:1347
+1652770434783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileMl2kq6"
+1652770435120	Marionette	INFO	Marionette enabled
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5317: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileMl2kq6\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+1652770528896	geckodriver	INFO	Listening on 127.0.0.1:1542
+1652770531946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileNn0JwU"
+1652770532264	Marionette	INFO	Marionette enabled
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5317: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileNn0JwU\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4832: TypeError: aWindow.gNavToolbox.palette is undefined
+1652774562671	geckodriver	INFO	Listening on 127.0.0.1:5974
+1652774565718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileMJtaw4"
+1652774566075	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileMJtaw4\\search.json.mozlz4", (void 0)))
+1652774567656	Marionette	INFO	Listening on port 5986
+1652774567777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652774567818	Marionette	INFO	Stopped listening on port 5986
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1652774696769	geckodriver	INFO	Listening on 127.0.0.1:6187
+1652774699840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileksTfiS"
+1652774700187	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileksTfiS\\search.json.mozlz4", (void 0)))
+1652774701751	Marionette	INFO	Listening on port 6198
+1652774701885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652774701935	Marionette	INFO	Stopped listening on port 6198
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652776738484	geckodriver	INFO	Listening on 127.0.0.1:10094
+1652776741564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilemwIDeA"
+1652776741919	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilemwIDeA\\search.json.mozlz4", (void 0)))
+1652776743416	Marionette	INFO	Listening on port 10108
+1652776743604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wukong2.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+1652777231326	Marionette	INFO	Stopped listening on port 10108
+[Parent 7676, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652777300780	geckodriver	INFO	Listening on 127.0.0.1:11293
+1652777303847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileR8kTWV"
+1652777304196	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileR8kTWV\\search.json.mozlz4", (void 0)))
+1652777305687	Marionette	INFO	Listening on port 11306
+1652777305889	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652777343215	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652778147593	geckodriver	INFO	Listening on 127.0.0.1:13273
+1652778150672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileGoPFYm"
+1652778151004	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileGoPFYm\\search.json.mozlz4", (void 0)))
+1652778152501	Marionette	INFO	Listening on port 13286
+1652778152720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652778236010	Marionette	INFO	Stopped listening on port 13286
+2778234719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileFPiJJA"
+1652778235005	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileFPiJJA\\search.json.mozlz4", (void 0)))
+1652778236594	Marionette	INFO	Listening on port 13504
+1652778236767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652778285116	Marionette	INFO	Stopped listening on port 13504
+2778284612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileyUsrTW"
+1652778284909	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileyUsrTW\\search.json.mozlz4", (void 0)))
+1652778286572	Marionette	INFO	Listening on port 13712
+1652778286658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652778315154	Marionette	INFO	Stopped listening on port 13712
+1652778338846	geckodriver	INFO	Listening on 127.0.0.1:13887
+1652778341946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileNWvTbO"
+1652778342278	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileNWvTbO\\search.json.mozlz4", (void 0)))
+1652778343754	Marionette	INFO	Listening on port 13903
+1652778343991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652778400853	geckodriver	INFO	Listening on 127.0.0.1:14060
+1652778403942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilezFl2c0"
+1652778404218	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilezFl2c0\\search.json.mozlz4", (void 0)))
+1652778405759	Marionette	INFO	Listening on port 14083
+1652778405978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652778444179	Marionette	INFO	Stopped listening on port 14083
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 19520, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652856161114	geckodriver	INFO	Listening on 127.0.0.1:4278
+1652856163982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileto3LPJ"
+1652856164467	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileto3LPJ\\search.json.mozlz4", (void 0)))
+1652856166180	Marionette	INFO	Listening on port 4290
+1652856166650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652856260755	Marionette	INFO	Stopped listening on port 4290
+2856259853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileTwRf0c"
+1652856260158	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileTwRf0c\\search.json.mozlz4", (void 0)))
+1652856261696	Marionette	INFO	Listening on port 4498
+1652856261912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652856298054	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652856436804	Marionette	INFO	Stopped listening on port 4498
+1652856440881	geckodriver	INFO	Listening on 127.0.0.1:4835
+1652856443952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilekS4hzE"
+1652856444291	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilekS4hzE\\search.json.mozlz4", (void 0)))
+1652856445683	Marionette	INFO	Listening on port 4849
+1652856445983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652856448091	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1652856462242	Marionette	INFO	Stopped listening on port 4849
+[Parent 18636, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652856616018	geckodriver	INFO	Listening on 127.0.0.1:5162
+1652856619093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile1QuINI"
+1652856619419	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile1QuINI\\search.json.mozlz4", (void 0)))
+1652856620814	Marionette	INFO	Listening on port 5173
+1652856621136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652856626712	Marionette	INFO	Stopped listening on port 5173
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652856646461	geckodriver	INFO	Listening on 127.0.0.1:5251
+1652856649559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofiletNUmjN"
+1652856649882	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofiletNUmjN\\search.json.mozlz4", (void 0)))
+1652856651312	Marionette	INFO	Listening on port 5263
+1652856651589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652856658305	Marionette	INFO	Stopped listening on port 5263
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652856714052	geckodriver	INFO	Listening on 127.0.0.1:5415
+1652856717120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileFG344f"
+1652856717454	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileFG344f\\search.json.mozlz4", (void 0)))
+1652856718938	Marionette	INFO	Listening on port 5429
+1652856719169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+1652856776549	Marionette	INFO	Stopped listening on port 5429
+1652856814115	geckodriver	INFO	Listening on 127.0.0.1:5615
+1652856817209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilecXipu2"
+1652856817548	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilecXipu2\\search.json.mozlz4", (void 0)))
+1652856818966	Marionette	INFO	Listening on port 5628
+1652856819261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+1652856917576	Marionette	INFO	Stopped listening on port 5621652856919105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileRzRyW6"
+1652856919410	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileRzRyW6\\search.json.mozlz4", (void 0)))
+1652856920905	Marionette	INFO	Listening on port 5928
+1652856921160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+1652857072829	Marionette	INFO	Stopped listening on port 5928
+1652857471940	geckodriver	INFO	Listening on 127.0.0.1:7351
+1652857475022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileDlcMO0"
+1652857475346	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileDlcMO0\\search.json.mozlz4", (void 0)))
+1652857476880	Marionette	INFO	Listening on port 7362
+1652857477063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+1652857628151	Marionette	INFO	Stopped listening on port 7362
+1652857633105	geckodriver	INFO	Listening on 127.0.0.1:7651
+1652857636168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilexqAjFG"
+1652857636507	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilexqAjFG\\search.json.mozlz4", (void 0)))
+1652857637955	Marionette	INFO	Listening on port 7662
+1652857638209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+1652857681110	Marionette	INFO	Stopped listening on port 7662
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652857743104	geckodriver	INFO	Listening on 127.0.0.1:7884
+1652857746186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileGvAY47"
+1652857746532	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileGvAY47\\search.json.mozlz4", (void 0)))
+1652857747938	Marionette	INFO	Listening on port 7899
+1652857748247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652858209512	Marionette	INFO	Stopped listening on port 7899
+[Parent 18960, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+n: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile9AwmfB\\search.json.mozlz4", (void 0)))
+1652858107261	Marionette	INFO	Listening on port 8507
+1652858107575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652858211061	Marionette	INFO	Stopped listening on port 8507
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileW1s7NF"
+1652858210065	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileW1s7NF\\search.json.mozlz4", (void 0)))
+1652858211626	Marionette	INFO	Listening on port 8781
+1652858211785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652858276794	geckodriver	INFO	Listening on 127.0.0.1:8933
+1652858279846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilePFt246"
+1652858280117	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilePFt246\\search.json.mozlz4", (void 0)))
+1652858281581	Marionette	INFO	Listening on port 8946
+1652858281898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653275149459	geckodriver	INFO	Listening on 127.0.0.1:6400
+1653275152280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilegYjEW3"
+1653275152791	Marionette	INFO	Marionette enabled
+1653275179251	geckodriver	INFO	Listening on 127.0.0.1:6513
+1653275182304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile8D9ElS"
+1653275182630	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile8D9ElS\\search.json.mozlz4", (void 0)))
+1653275184106	Marionette	INFO	Listening on port 6525
+1653275184362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653275279555	Marionette	INFO	Stopped listening on port 6525
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1653290622777	geckodriver	INFO	Listening on 127.0.0.1:9602
+1653290625870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileIwF3fm"
+1653290641736	geckodriver	INFO	Listening on 127.0.0.1:9706
+1653290644805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilebqtwbp"
+1653290645158	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilebqtwbp\\search.json.mozlz4", (void 0)))
+1653290646705	Marionette	INFO	Listening on port 9724
+1653290646865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wukong2.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653291427802	Marionette	INFO	Stopped listening on port 97241653291428730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileVsel4R"
+1653291429063	Marionette	INFO	Marionette enabled
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5317: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileVsel4R\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4832: TypeError: aWindow.gNavToolbox.palette is undefined
+1653291445026	geckodriver	INFO	Listening on 127.0.0.1:11002
+1653291448085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileZpLxS7"
+1653291448416	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileZpLxS7\\search.json.mozlz4", (void 0)))
+1653291449980	Marionette	INFO	Listening on port 11013
+1653291450135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653291574914	Marionette	INFO	Stopped listening on port 11013
+[Parent 12328, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+mote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile3yRRDu"
+1653291574760	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile3yRRDu\\search.json.mozlz4", (void 0)))
+1653291576326	Marionette	INFO	Listening on port 11257
+1653291576536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653293322754	geckodriver	INFO	Listening on 127.0.0.1:14198
+1653293325825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileIQsh5Y"
+1653293326187	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileIQsh5Y\\search.json.mozlz4", (void 0)))
+1653293327697	Marionette	INFO	Listening on port 14210
+1653293327863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653293348378	Marionette	INFO	Stopped listening on port 14210
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653293373712	geckodriver	INFO	Listening on 127.0.0.1:14334
+1653293376801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilenoBEQy"
+1653293377150	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilenoBEQy\\search.json.mozlz4", (void 0)))
+1653293378648	Marionette	INFO	Listening on port 14346
+1653293378842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653293533783	geckodriver	INFO	Listening on 127.0.0.1:14640
+1653293536838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilezWfTNH"
+1653293537131	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilezWfTNH\\search.json.mozlz4", (void 0)))
+1653293538686	Marionette	INFO	Listening on port 14653
+1653293538869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653293580564	geckodriver	INFO	Listening on 127.0.0.1:14778
+1653293583628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileznW2JU"
+1653293583923	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileznW2JU\\search.json.mozlz4", (void 0)))
+1653293585371	Marionette	INFO	Listening on port 14789
+1653293585684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653293672451	geckodriver	INFO	Listening on 127.0.0.1:14983
+1653293675506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileBSZHcr"
+1653293676285	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileBSZHcr\\search.json.mozlz4", (void 0)))
+1653293679366	Marionette	INFO	Listening on port 14995
+1653293679725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653294557675	Marionette	INFO	Stopped listening on port 14995
+[Parent 18364, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 18364, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 18364, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ile at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileJXEWjF\\search.json.mozlz4", (void 0)))
+1653293828082	Marionette	INFO	Listening on port 1301
+1653293828334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653293880406	Marionette	INFO	Stopped listening on port 1301
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 16972, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1653293900922	geckodriver	INFO	Listening on 127.0.0.1:1485
+1653293903982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilewCMTCJ"
+1653293904595	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilewCMTCJ\\search.json.mozlz4", (void 0)))
+1653293907367	Marionette	INFO	Listening on port 1497
+1653293907685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wukong2.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+1653294558548	Marionette	INFO	Stopped listening on port 1497
+[Parent 11472, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1653294578771	geckodriver	INFO	Listening on 127.0.0.1:2708
+1653294581826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileVbQ1El"
+1653294582639	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileVbQ1El\\search.json.mozlz4", (void 0)))
+1653294585484	Marionette	INFO	Listening on port 2721
+1653294585524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.183.11.62"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://howmuch-grafana-dmz.paas.sc.ctc.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wukong2.tingyun.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+JavaScript warning: https://wukong2.tingyun.com/platform/main-es2015.6961a0db487a9f211f2c.js, line 1: unreachable code after return statement
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/basicSetting.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/plugin/nano-scroller/nano-scroller.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/bootstrap-paginator.js, line 514: TypeError: $ is undefined
+JavaScript error: http://howmuch-monitor.paas.sc.ctc.com/yzfhtgl/resources/admin/js/layer/layer.js, line 2: TypeError: i is not a function
+1653295100135	Marionette	INFO	Stopped listening on port 2721
+[Parent 13136, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1655368462573	geckodriver	INFO	Listening on 127.0.0.1:1229
+1655368465641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilehrw3d1"
+1655368466064	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilehrw3d1\\search.json.mozlz4", (void 0)))
+1655368467973	Marionette	INFO	Listening on port 1241
+1655368468300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655368512039	Marionette	INFO	Stopped listening on port 1241655368513121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofiledfshPE"
+1655368513544	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofiledfshPE\\search.json.mozlz4", (void 0)))
+1655368515438	Marionette	INFO	Listening on port 1389
+1655368515778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655372444807	Marionette	INFO	Stopped listening on port 1389
+[Parent 20160, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+mote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile6pwLle"
+1655368958517	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile6pwLle\\search.json.mozlz4", (void 0)))
+1655368960421	Marionette	INFO	Listening on port 2134
+1655368960822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655372443310	Marionette	INFO	Stopped listening on port 2134
+5370139515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile2B5Kfb"
+1655370139800	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofile2B5Kfb\\search.json.mozlz4", (void 0)))
+1655370141279	Marionette	INFO	Listening on port 4312
+1655370141579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655370153745	Marionette	INFO	Stopped listening on port 4312
+[Parent 10456, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655371347448	geckodriver	INFO	Listening on 127.0.0.1:12502
+1655371350526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilewjF8Ct"
+1655371350846	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofilewjF8Ct\\search.json.mozlz4", (void 0)))
+1655371352329	Marionette	INFO	Listening on port 12514
+1655371352581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655371364707	Marionette	INFO	Stopped listening on port 12514
+1655371513715	geckodriver	INFO	Listening on 127.0.0.1:12797
+1655371516793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileyk2Zy1"
+1655371517078	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xinjie\\AppData\\Local\\Temp\\rust_mozprofileyk2Zy1\\search.json.mozlz4", (void 0)))
+1655371518557	Marionette	INFO	Listening on port 12808
+1655371518853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655371530871	Marionette	INFO	Stopped listening on port 12808
